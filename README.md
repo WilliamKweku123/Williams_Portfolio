@@ -14,3 +14,4 @@ successes. The task was to detrmine the following:
 2. The Regional Outlook
 3. Country-Level Detail (Success Stories, Largest Concerns, Quartiles)
 4. Finally to make reccommendations
+5. SQL Queries used
