@@ -20,3 +20,15 @@ successes. The task was to detrmine the following:
 ## Project 2
 ## [New York Stock Exchange Data Project](https://docs.google.com/spreadsheets/d/1MvgFi0SHXRGIe1T3-8V4rZoWZuZdxcsImrOglKXrTVo/edit#gid=767681540)
 ## Project Overview:
+In this project, I analysed real-life data from the New York Stock Exchange. A subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies was mined and used for the analysis. During this project, the following three Tasks were conducted:
+
+
+1. Complete own data analysis and created a presentation to share my findings.
+2. Developed a dashboard for a Profit and Loss Statement.
+3. Created a Financial Forecasting Model using three scenarios.
+
+
+
+![Screenshot 2023-07-05 at 13 16 42](https://github.com/WilliamKweku123/Williams_Portfolio/assets/134850391/7d963faa-092f-49e0-a3d3-2647492ae327)
+
+
