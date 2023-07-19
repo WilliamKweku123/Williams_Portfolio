@@ -34,9 +34,20 @@ In this project, I analysed real-life data from the New York Stock Exchange. A s
 ## Project 3
 ## [Bank Customer Churn Analysis](https://acrobat.adobe.com/id/urn:aaid:sc:EU:4630446f-6afa-47a2-a72b-a249bd953000)
 ## Project Overview:
-It is much more expensive to sign in a new client than keeping an existing one.
-It is advantageous for banks to know what leads a client towards the decision to leave the company.
-Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible. This project focused on the areas of churn rates to draw insight of the patterns and trends of churn occurrances.
+1. It is much more expensive to sign in a new client than keeping an existing one.
+2. It is advantageous for banks to know what leads a client towards the decision to leave the company.
+3. Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible. This     
+   project focused on the areas of churn rates to draw insight of the patterns and trends of churn occurrances.
 
 ![IMG_4488](https://github.com/WilliamKweku123/Williams_Portfolio/assets/134850391/bbd79496-f5c4-41dc-af63-ed2f20d05688)
+
+## Project 4
+## HR Analytics Dashboard for Anderson Baker LLC.
+## Project Overview
+1. KPIs of various departments was calculated
+2. Most importantly the attrition rate and pateern was determined through visualization
+3. Attrition by department and and related revenue loss was also calculated.
+
+![Image 19 07 23 at 16 19](https://github.com/WilliamKweku123/Williams_Portfolio/assets/134850391/9e915dec-4d00-4770-bb96-c396bfd5d5e6)
+
 
